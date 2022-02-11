@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663746705240",
+    "project_id": "home-slider-d7cb2",
+    "storage_bucket": "home-slider-d7cb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663746705240:android:40873d40e359a49e0dd72d",
+        "android_client_info": {
+          "package_name": "com.example.home_slidder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663746705240-uakjk57jdvd32tmsv6bgq5bu4mruthnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6evfPMUBTm8xDOYGjyB06c3nvjn1Q36Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663746705240-uakjk57jdvd32tmsv6bgq5bu4mruthnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
